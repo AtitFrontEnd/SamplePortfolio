@@ -1,0 +1,14 @@
+body {
+  background-color: blue;
+}
+
+hr {
+  border-style: dotted;
+  border-color: white;
+  border-width: 1px;
+  width: 100%;
+}
+
+img {
+height: 200px;
+}
